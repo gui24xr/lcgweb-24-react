@@ -1,0 +1,137 @@
+{
+    "concerts": [
+      {
+        "id": "1",
+        "name": "Rock Legends Live",
+        "date": "2024-11-25T19:00:00",
+        "venue": {
+          "name": "The Big Arena",
+          "address": "123 Main St, Rock City",
+          "city": "Rock City"
+        },
+        "time": "19:00",
+        "pictureURL": "https://example.com/images/rock-legends.jpg",
+        "ticketLink": "https://example.com/tickets/rock-legends"
+      },
+      {
+        "id": "2",
+        "name": "Pop Dreams Tour",
+        "date": "2024-12-02T20:00:00",
+        "venue": {
+          "name": "City Center Stadium",
+          "address": "456 Park Ave, Cityville",
+          "city": "Cityville"
+        },
+        "time": "20:00",
+        "pictureURL": "https://example.com/images/pop-dreams.jpg",
+        "ticketLink": "https://example.com/tickets/pop-dreams"
+      },
+      {
+        "id": "3",
+        "name": "Indie Night Out",
+        "date": "2024-12-05T21:00:00",
+        "venue": {
+          "name": "The Music Hall",
+          "address": "789 Oak St, Soundtown",
+          "city": "Soundtown"
+        },
+        "time": "21:00",
+        "pictureURL": "https://example.com/images/indie-night.jpg",
+        "ticketLink": "https://example.com/tickets/indie-night"
+      },
+      {
+        "id": "4",
+        "name": "Jazz Under the Stars",
+        "date": "2024-12-10T18:30:00",
+        "venue": {
+          "name": "Outdoor Jazz Pavilion",
+          "address": "101 Jazz Blvd, Melody Park",
+          "city": "Melody Park"
+        },
+        "time": "18:30",
+        "pictureURL": "https://example.com/images/jazz-stars.jpg",
+        "ticketLink": "https://example.com/tickets/jazz-under-the-stars"
+      },
+      {
+        "id": "5",
+        "name": "Electronic Dance Night",
+        "date": "2024-12-15T22:00:00",
+        "venue": {
+          "name": "Pulse Nightclub",
+          "address": "202 Nightclub Ave, Dance City",
+          "city": "Dance City"
+        },
+        "time": "22:00",
+        "pictureURL": "https://example.com/images/electronic-dance.jpg",
+        "ticketLink": "https://example.com/tickets/electronic-dance"
+      }
+    ],
+    "music": [
+      {
+        "id": "1",
+        "title": "Eternal Dream",
+        "releaseDate": "2024-09-15",
+        "platformLinks": [
+          "https://spotify.com/track/eternal-dream",
+          "https://applemusic.com/track/eternal-dream",
+          "https://youtube.com/watch?v=eternal-dream"
+        ],
+        "image": "https://example.com/images/eternal-dream.jpg",
+        "duration": "03:45",
+        "author": "Lana Sky"
+      },
+      {
+        "id": "2",
+        "title": "Into the Night",
+        "releaseDate": "2024-10-01",
+        "platformLinks": [
+          "https://spotify.com/track/into-the-night",
+          "https://applemusic.com/track/into-the-night",
+          "https://youtube.com/watch?v=into-the-night"
+        ],
+        "image": "https://example.com/images/into-the-night.jpg",
+        "duration": "04:20",
+        "author": "The Midnight Riders"
+      },
+      {
+        "id": "3",
+        "title": "Rising Sun",
+        "releaseDate": "2024-07-25",
+        "platformLinks": [
+          "https://spotify.com/track/rising-sun",
+          "https://applemusic.com/track/rising-sun",
+          "https://youtube.com/watch?v=rising-sun"
+        ],
+        "image": "https://example.com/images/rising-sun.jpg",
+        "duration": "02:50",
+        "author": "Alex Nova"
+      },
+      {
+        "id": "4",
+        "title": "Whispers of Autumn",
+        "releaseDate": "2024-11-10",
+        "platformLinks": [
+          "https://spotify.com/track/whispers-of-autumn",
+          "https://applemusic.com/track/whispers-of-autumn",
+          "https://youtube.com/watch?v=whispers-of-autumn"
+        ],
+        "image": "https://example.com/images/whispers-of-autumn.jpg",
+        "duration": "05:10",
+        "author": "Sophie Fields"
+      },
+      {
+        "id": "5",
+        "title": "Electric Pulse",
+        "releaseDate": "2024-08-19",
+        "platformLinks": [
+          "https://spotify.com/track/electric-pulse",
+          "https://applemusic.com/track/electric-pulse",
+          "https://youtube.com/watch?v=electric-pulse"
+        ],
+        "image": "https://example.com/images/electric-pulse.jpg",
+        "duration": "03:30",
+        "author": "DJ Tempo"
+      }
+    ]
+  }
+  
